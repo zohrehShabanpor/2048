@@ -1,0 +1,17 @@
+C:\Users\PC1\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\Users\PC1\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\PC1\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+D:\Gam\C#\projecets\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+D:\Gam\C#\projecets\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.csprojAssemblyReference.cache
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.cache
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.CoreCompileInputs.cache
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+D:\Gam\C#\projecets\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
